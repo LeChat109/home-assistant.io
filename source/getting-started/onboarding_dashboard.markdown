@@ -123,13 +123,16 @@ In the following steps, we will create a new dashboard and edit some card settin
     - When you are done, in the top right corner, select **Done**.
 14. If you want to change any of the other cards, select the **Edit** button on the card.
 15. Congratulations! You have completed your first dashboard customization.
+16. While your dashboard is still small, this is a good moment to [migrate it into sections view](/dashboards/views/#migrating-a-view-into-a-sections-view).
+    - The sections view offers features such as drag and drop, customizing number and width of columns, and more heading options.
+    - To learn more, head over to the documentation on [section view](/dashboards/sections/).
 
 ## Learning more about dashboards
 
 If you want to learn more about dashboards, views, and cards, take a look at these topics:
 
 1. Take a look at the [introduction to dashboards](/dashboards/) and learn about [multiple dashboards](/dashboards/dashboards).
-2. Learn about the different [view types](/dashboards/views/).
+2. Learn more about [view types](/dashboards/views/)
 3. Learn how to [add cards](/dashboards/cards/#adding-cards-to-your-dashboard) to a view.
 
 ## Next step: integrations
