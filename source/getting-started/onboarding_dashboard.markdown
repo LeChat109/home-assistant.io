@@ -11,11 +11,18 @@ The screenshot shows an **Overview** dashboard with many [cards](/dashboards/car
 
 ### Views
 
-The icons in the blue menu bar on top each represent a different tab. Each tab contains a [view](/dashboards/views/).
+The following screenshot shows a fully populated dashboard in [masonry view](/dashboards/masonry/) layout. The icons in the blue menu bar on top each represent a different tab. Each tab contains a [view](/dashboards/views/).
 
 <p class='img'>
-<img src='/images/getting-started/lovelace.png' alt='Screenshot of a populated Overview dashboard'>
-Screenshot of a populated Overview dashboard with many devices.
+<img src='/images/getting-started/lovelace.png' alt='Screenshot of a populated Overview dashboard in masonry view'>
+Screenshot of a populated Overview dashboard in masonry view layout.
+</p>
+
+The following screenshot shows a fully populated dashboard in [sections view](/dashboards/sections/) layout.
+
+<p class='img'>
+    <img src="/images/dashboards/section_view.png" alt="A fully populated dashboard in Sections view layout"/>
+    A fully populated dashboard in Sections view layout
 </p>
 
 ### Multiple dashboards
@@ -33,7 +40,7 @@ In the sidebar on the left, you see the names of different dashboards. Home Assi
 
 The **Overview** [dashboard](/dashboards/) is the first page you see after the [onboarding process](/getting-started/onboarding).
 
-If you just onboarded, your dashboard will be nearly empty. It shows cards for devices that were detected automatically. Your dashboard may look quite different, depending on the devices that you have at home.
+If you just onboarded, your dashboard will be nearly empty. It is using the [masonry view](/dashboards/masonry/) layout and shows cards for devices that were detected automatically. Your dashboard may look quite different, depending on the devices that you have at home.
 
 <p class='img'>
 <img src='/images/getting-started/onboarding_dashboard_raspi_bluetooth.png' alt='Screenshot of the Overview dashboard with Bluetooth devices'>
